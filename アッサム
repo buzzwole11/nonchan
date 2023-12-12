@@ -62,27 +62,27 @@
   <!-- 額縁で囲まれた写真を配置 -->
 <div class="frame2">
   <div class="frame">
-    <img src="C:\Users\3117220235\Desktop\OIP (1).jfif" alt="写真1" width="100%" height="100%" onclick="showPopup('popup1')">
+    <img src="OIP (1).jfif" alt="写真1" width="100%" height="100%" onclick="showPopup('popup1')">
   </div>
     <p>ここに写真1に関する謝辞の内容を書きます。</p>
 </div>
 
 <div class="frame2">
   <div class="frame">
-    <img src="C:\Users\3117220235\Desktop\ri.png" alt="写真2" width="100%" height="100%" onclick="showPopup('popup2')">
+    <img src="ri.png" alt="写真2" width="100%" height="100%" onclick="showPopup('popup2')">
   </div>
     <p>ここに写真1に関する謝辞の内容を書きます。</p>
 </div>
 
 <div class="frame2">
     <div class="frame">
-      <img src="C:\Users\3117220235\Desktop\ta.png" alt="写真3" width="100%" height="100%" onclick="showPopup('popup3')">
+      <img src="ta.png" alt="写真3" width="100%" height="100%" onclick="showPopup('popup3')">
     </div>
       <p>ここに写真1に関する謝辞の内容を書きます。</p>
   </div>
 <div class="frame2">
     <div class="frame">
-      <img src="C:\Users\3117220235\Desktop\no.png" alt="写真4" width="100%" height="100%" onclick="showPopup('popup4')">
+      <img src="no.png" alt="写真4" width="100%" height="100%" onclick="showPopup('popup4')">
     </div>
       <p>ここに写真1に関する謝辞の内容を書きます。</p>
 </div>
